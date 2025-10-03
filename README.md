@@ -7,6 +7,8 @@ In order to set the path for Geant4 libraries you need to run the following comm
 - For snap-based installations:  
 ```source /snap/gate/48/usr/local/bin/geant4.sh```
 
+`48` denotes the version and you should enter the correct version should the above command fail. 
+
 The above command should be run everytime you open a new terminal. Alternatively, you can add it to your .bashrc file.
 
 - For direct installlations:  
