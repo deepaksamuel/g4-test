@@ -29,3 +29,9 @@ If everything works well, you should see an UI like this:
 
 
 In case you encounter any errors, please raise an issue on github.
+
+Additionally, to analyse the simulation data used in the exercises, we will use python. You will have to ensure that python the following libraries are installed:
+
+- numpy (pip install numpy)
+- matplotlib.pyplot (pip install matplotlib)
+- pandas (pip install pandas)
