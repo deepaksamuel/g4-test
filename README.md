@@ -35,3 +35,7 @@ Additionally, to analyse the simulation data used in the exercises, we will use 
 - numpy (pip install numpy)
 - matplotlib.pyplot (pip install matplotlib)
 - pandas (pip install pandas)
+
+To verify if python and the above libraries are installed and working, open the `test.ipynb` file and run the first two cells.
+
+To view ipynb (jupyter notebooks), make sure that you have installed the jupyter extension on vscode.
